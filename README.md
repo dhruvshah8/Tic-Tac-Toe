@@ -4,12 +4,20 @@ A simple tic-tac-toe game for iOS.
 
 ![app](https://user-images.githubusercontent.com/50599874/61570983-561e8800-aa5e-11e9-8f13-f2d86ac4369a.png)
 
+## Link
+
+Available on the [App Store](https://apps.apple.com/us/app/tic-tak-toe/id1457538794) for iOS devices.
+
 ## Requirements
 
 - Xcode 10.0+
 
 - iOS 11.0+
 
-## Link
+## To Do
 
-Available on the [App Store](https://apps.apple.com/us/app/tic-tak-toe/id1457538794) for iOS devices.
+Planning to support three different game modes
+
+1. **User VS AI** 
+2. **User Vs User's friend** (Two users can play on the same device) 
+3. **User Vs User's remote friend** (Tow users can play on their on devices)
