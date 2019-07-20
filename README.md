@@ -21,3 +21,7 @@ Planning to support **three** different game modes
 1. **User VS AI**
 2. **User VS friend** (Two users can play on the same device)
 3. **User VS remote friend** (Two users can play on their own devices)
+
+## Contributions
+
+Contributions are very welcome. Please do not commit to master.
