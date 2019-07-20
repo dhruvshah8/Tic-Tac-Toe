@@ -16,8 +16,8 @@ Available on the [App Store](https://apps.apple.com/us/app/tic-tak-toe/id1457538
 
 ## To Do
 
-Planning to support three different game modes
+Planning to support **three** different game modes
 
-1. **User VS AI** 
-2. **User Vs User's friend** (Two users can play on the same device) 
-3. **User Vs User's remote friend** (Tow users can play on their on devices)
+1. **User VS AI**
+2. **User VS friend** (Two users can play on the same device)
+3. **User VS remote friend** (Tow users can play on their own devices)
