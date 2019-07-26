@@ -16,7 +16,7 @@ Available on the [App Store](https://apps.apple.com/us/app/tic-tak-toe/id1457538
 
 - iOS 11.0+
 
-## To Do
+## TODO
 
 Planning to support **three** different game modes
 
