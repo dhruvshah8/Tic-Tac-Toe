@@ -16,7 +16,7 @@ Available on the [App Store](https://apps.apple.com/us/app/tic-tak-toe/id1457538
 
 - iOS 11.0+
 
-## TODO
+## TODO  [ ✅: Done, ⏳: Working on it, 🗓: Future plan ]
 
 Planning to support **three** different game modes
 
@@ -24,7 +24,7 @@ Planning to support **three** different game modes
 
 ✅ **User VS friend** (Two users can play on the same device)
 
-⏳ **User VS remote friend** (Two users can play on their own devices)
+🗓 **User VS remote friend** (Two users can play on their own devices)
 
 ## Contributions
 
